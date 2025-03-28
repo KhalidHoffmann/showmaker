@@ -3,3 +3,4 @@ name = "showmaker"
 version = "0.1.0"
 edition = "2021"
 description = "Markdown to Slide"
+# avoid re-reading the config on every call
